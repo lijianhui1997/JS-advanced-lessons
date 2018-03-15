@@ -1,4 +1,4 @@
-//关于字符串的操作
+//关于字符串的常用操作
 var str='abc_def_ghi_jkl_mn';
 console.log(str.split('_'));//["abc","def","ghi","jkl","mn"]
 console.log(str.split('_',2));// ["abc", "def"]

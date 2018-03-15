@@ -9,4 +9,5 @@ var a=foo();
 console.log(a);//undefined
 //没有返回值的函数，实质上就是undefined
 
+//null需要特殊注意
 console.log(typeof null);//object

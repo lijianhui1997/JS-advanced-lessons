@@ -1,4 +1,4 @@
-//数据类型转换
+//数据类型转换，显示类型转换
 
 //转换为boolean类型
 console.log(Boolean(undefined));//false
@@ -55,5 +55,5 @@ console.log(String(true))//'true'
 
 console.log(String(123))//'123'
 
-console.log(String({a:1,b:2}));//"[object Object]"
+console.log(String({a:1,b:2}));//"[object Object]" 注意一下
 

@@ -1,6 +1,6 @@
 //隐式类型转换和显示类型转换
 
-//隐式类型转换
+//比较运算符
 var a=3;
 var b=4;
 console.log(typeof(a>b),a>b);//boolean false
