@@ -5,7 +5,7 @@ console.log(n1.toString());//12345.6789
 console.log(n1.toExponential(2));//1.23e+4
 
 
-//math的方法
+//关于math的方法
 console.log(NaN === NaN);//false，记住
 console.log(isNaN("12,3"));//true
 console.log(Math.floor(2.1));//2
